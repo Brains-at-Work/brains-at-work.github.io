@@ -1,0 +1,7 @@
+auth_cocoa:
+  name: Cocoa
+  url: cocoa.brainsat.work
+
+auth_sushi:
+  name: Sushi
+  url: sushi.brainsat.work
