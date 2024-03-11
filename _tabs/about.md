@@ -42,7 +42,7 @@ to how they learn and experience the world around them.
 ### Sushi (they/them)
 
 
-Sushi is a neuroscience student and educator with a specific interest in pain
+Sushi is a neuroscience student and researcher with a specific interest in pain
 perception and chronic illnesses. They received a bachelors degree in Biology
 from Ashoka University with a thesis exploring how long term and unpredictable
 early life stress affects an organism's behavioral responses to pain. They love
