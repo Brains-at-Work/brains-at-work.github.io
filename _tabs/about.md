@@ -10,7 +10,9 @@ biology, neuroscience, physics, mathematics, and computer science. With two
 neurodivergent individuals at the helm, our teaching approach is informed by
 lived experience.
 
-Purpose and Goals Our purpose is to empower students to excel in their academic
+## Purpose and Goals 
+
+Our purpose is to empower students to excel in their academic
 pursuits by offering personalised tutoring that fits their individual learning
 needs. We aim to make learning engaging, accessible, and effective for all kinds
 of brains.
@@ -26,18 +28,6 @@ letter gamma was chosen as a nod to our respective academic backgrounds. Gamma
 represents gamma rhythms in the brain, which are correlates of neural
 activation. It also represents the affine connection in General Relativity, and
 is the symbol for light, as well as the Lorentz factor.
-
-
-## Our Offerings
-
- 1. Tailored one-on-one, online tutoring sessions in biology, neuroscience,
-    physics, mathematics, and computer science designed to fit individual
-    learning needs.
- 2. Test prep services for SAT Subject Tests, GRE Subject Tests, and Advanced
-    Placement exams in all the aforementioned areas.
-
-Experience the difference personalised tutoring can make in your academic
-journey. Join us today and start learning in a way that works for your brain!
 
 ## Our Team
 
@@ -107,3 +97,14 @@ foundational knowledge.
 
 Outside academic settings, Cocoa spends her time playing indie video games,
 watching sci-fi TV and obsessing over cartoons.
+
+## Our Services
+
+ 1. Tailored one-on-one, online tutoring sessions in biology, neuroscience,
+    physics, mathematics, and computer science designed to fit individual
+    learning needs.
+ 2. Test prep services for SAT Subject Tests, GRE Subject Tests, and Advanced
+    Placement exams in all the aforementioned areas.
+
+Experience the difference personalised tutoring can make in your academic
+journey. Join us today and start learning in a way that works for your brain!
