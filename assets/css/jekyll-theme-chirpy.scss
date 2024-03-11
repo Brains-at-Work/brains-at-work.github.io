@@ -1,0 +1,93 @@
+---
+---
+
+@import 'main';
+
+.img-profile {
+  height: 112px;
+  width: 112px;
+  margin: 0.5em;
+  margin-right: 1.2em;
+  margin-bottom: 0em;
+  transform: none !important;
+  left: 0% !important;
+  display: block;
+  width: 7rem;
+  height: 7rem;
+  overflow: hidden;
+  box-shadow: var(--avatar-border-color) 0 0 0 2px;
+  transform: translateZ(0); /* fixed the zoom in Safari */
+
+  img {
+    transition: transform 0.5s;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}
+
+
+p {
+  text-align: justify;
+}
+
+.img-profile-left {
+  height: 112px;
+  width: 112px;
+  float: left;
+  margin: 0.5em;
+  margin-right: 1.2em;
+  margin-bottom: 0em;
+  transform: none !important;
+  left: 0% !important;
+  display: block;
+  width: 7rem;
+  height: 7rem;
+  overflow: hidden;
+  box-shadow: var(--avatar-border-color) 0 0 0 2px;
+  transform: translateZ(0); /* fixed the zoom in Safari */
+
+  img {
+    transition: transform 0.5s;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}
+
+
+h3.right-h3{
+     text-align: right;
+}
+
+
+.img-profile-right {
+  height: 112px;
+  width: 112px;
+  float: right;
+  margin-left: 1.2em;
+  margin-bottom: 0em;
+  margin-right: 0.5em;
+  margin-top: 0.5em;
+  transform: none !important;
+  left: 0% !important;
+  display: block;
+  width: 7rem;
+  height: 7rem;
+  overflow: hidden;
+  box-shadow: var(--avatar-border-color) 0 0 0 2px;
+  transform: translateZ(0); /* fixed the zoom in Safari */
+
+  img {
+    transition: transform 0.5s;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}
+
+
+
