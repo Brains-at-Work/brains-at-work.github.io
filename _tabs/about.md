@@ -22,7 +22,8 @@ of brains.
 
 
 Our logo comprises the uppercase and lowercase Greek letter gamma, both
-of which are coloured with a rainbow gradient based on Paul Tol’s muted
+of which are coloured with a rainbow gradient based on [Paul
+Tol’s](https://personal.sron.nl/~pault/#fig:scheme_muted) muted
 qualitative colour scheme that is designed to be colourblind-friendly. The Greek
 letter gamma was chosen as a nod to our respective academic backgrounds. Gamma
 represents gamma rhythms in the brain, which are correlates of neural
